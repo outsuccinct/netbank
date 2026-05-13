@@ -23,12 +23,12 @@ This project is a **banking system** implemented using **CQRS (Command Query Res
 
 ---
 
-## 💻 Technology Stack
+## Technology Stack
 - Java, Spring Boot  
 - Postgres for event storage  
 - Kafka for event-driven communication  
 - Minecraft server integration  
 - Optional read model databases for optimized queries  
 
-## 📜 License
+## License
 MIT
